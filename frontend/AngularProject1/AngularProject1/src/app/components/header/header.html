@@ -1,0 +1,34 @@
+<nav class="navbar">
+  <a (click)="goToHome()">Home</a>
+  <a (click)="goToSearch()">Search</a>
+
+
+  <div class="nav-right">
+
+    
+    <button *ngIf="isLoggedIn">Account ▾</button>
+
+    <div class="dropdown-menu" *ngIf="isLoggedIn">
+
+     
+      <button (click)="goToProfile()">Profile</button>
+
+      
+      <button *ngIf="!isAdmin" (click)="goToRequests()">My Requests</button>
+
+      
+      <button *ngIf="isAdmin" (click)="goToAddBook()">Add Book</button>
+      <button *ngIf="isAdmin" (click)="goToAdminDashboard()">Admin Dashboard</button>
+
+      <button (click)="logout()">Logout</button>
+
+    </div>
+
+    
+    <div *ngIf="!isLoggedIn">
+      <button (click)="goToLogin()">Login</button>
+      <button (click)="goToSignup()">Signup</button>
+    </div>
+
+  </div>
+</nav>

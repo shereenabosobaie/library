@@ -1,0 +1,46 @@
+.add-book-container {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ccc;
+}
+
+  .add-book-container form div {
+    margin-bottom: 1rem;
+  }
+
+label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  background: #007bff;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+  button:hover {
+    background: #0056b3;
+  }
+
+.preview img {
+  width: 120px;
+  height: 180px;
+  margin-top: 10px;
+  border-radius: 5px;
+  object-fit: cover;
+}

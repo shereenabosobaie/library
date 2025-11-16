@@ -1,0 +1,67 @@
+<div class="search-container">
+
+  <div class="search-header">
+    <h1>Search Books</h1>
+
+    <div class="search-box">
+      <input type="text"
+             [(ngModel)]="searchQuery"
+             (input)="searchBooks()"
+             placeholder="Search by title or author..." />
+    </div>
+  </div>
+
+  
+  <div *ngIf="isLoading" class="loading">Loading books...</div>
+
+ 
+  <div *ngIf="errorMessage" class="error-message">
+    {{ errorMessage }}
+  </div>
+
+  <div class="search-results">
+
+    
+    <div class="books-grid" *ngIf="!searchQuery">
+      <div class="book-card"
+           *ngFor="let book of books"
+           (click)="viewBook(book.id || book.Id)">
+
+        <div class="book-cover">
+          <img [src]="getFullImageUrl(book)" alt="Book Cover" class="book-image" />
+        </div>
+
+        <div class="book-info">
+          <h3 class="book-title">{{ book.title || book.Title }}</h3>
+          <p class="book-author">by {{ book.author || book.Author }}</p>
+        </div>
+
+      </div>
+    </div>
+
+    
+    <div class="books-grid" *ngIf="searchQuery && searchResults.length > 0">
+      <div class="book-card"
+           *ngFor="let book of searchResults"
+           (click)="viewBook(book.id || book.Id)">
+
+        <div class="book-cover">
+          <img [src]="getFullImageUrl(book)" alt="Book Cover" class="book-image" />
+        </div>
+
+        <div class="book-info">
+          <h3 class="book-title">{{ book.title || book.Title }}</h3>
+          <p class="book-author">by {{ book.author || book.Author }}</p>
+        </div>
+
+      </div>
+    </div>
+
+    
+    <div *ngIf="searchQuery && searchResults.length === 0" class="no-results">
+      No books found for "{{ searchQuery }}"
+    </div>
+
+  </div>
+
+</div>

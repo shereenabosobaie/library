@@ -1,0 +1,36 @@
+<div class="add-book-container">
+  <h2>Add New Book</h2>
+
+  <form (ngSubmit)="addBook()" enctype="multipart/form-data">
+    <div>
+      <label>Title</label>
+      <input type="text" [(ngModel)]="book.title" name="title" required />
+    </div>
+
+    <div>
+      <label>Author</label>
+      <input type="text" [(ngModel)]="book.author" name="author" required />
+    </div>
+
+    <div>
+      <label>Publish Year</label>
+      <input type="number" [(ngModel)]="book.publishYear" name="publishYear" required />
+    </div>
+
+    <div>
+      <label>Description</label>
+      <textarea [(ngModel)]="book.description" name="description" required></textarea>
+    </div>
+
+    <div>
+      <label>Book Image</label>
+      <input type="file" (change)="onFileSelected($event)" accept="image/*" />
+      <div *ngIf="previewUrl" class="preview">
+        <img [src]="previewUrl" alt="Preview" />
+      </div>
+    </div>
+
+    <button type="submit">Add Book</button>
+  </form>
+</div>
+<app-popup #popup></app-popup>

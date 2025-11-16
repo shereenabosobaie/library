@@ -1,0 +1,63 @@
+<div class="borrow-container">
+  <div class="header">
+    <h2>Borrow Book Request</h2>
+  </div>
+
+ 
+  <div *ngIf="isLoading" class="loading">
+    <p>Loading book details...</p>
+  </div>
+
+  
+  <div *ngIf="errorMessage && !isLoading" class="error">
+    <p>{{ errorMessage }}</p>
+    <button (click)="fetchBookDetails()" class="retry-btn">Retry</button>
+  </div>
+
+  
+  <div *ngIf="book && !isLoading" class="book-details">
+    <div class="book-info">
+      <div class="book-image">
+        <img [src]="getFullImageUrl(book.ImageUrl || book.imageUrl)"
+             [alt]="book.Title"
+             class="book-image"
+             (error)="book.ImageUrl = 'assets/images/default-book.jpg'">
+      </div>
+      <div class="book-meta">
+        <h3>{{ book.Title }}</h3>
+        <p class="author">by {{ book.Author }}</p>
+        <p class="year">Published: {{ book.publishYear }}</p>
+        <p class="availability" [class.available]="book.isAvilable" [class.unavailable]="!book.isAvilable">
+          {{ book.isAvilable ? 'Available' : 'Unavailable' }}
+        </p>
+        <p class="description">{{ book.Description }}</p>
+      </div>
+    </div>
+
+    
+    <div class="borrow-form" *ngIf="book.isAvilable">
+      <div class="form-group">
+        <label for="days">Borrowing Period (days):</label>
+        <input type="number"
+               id="days"
+               [(ngModel)]="days"
+               min="1"
+               max="30"
+               class="days-input"
+               (change)="validateDays()">
+        <small>Select between 1 and 30 days</small>
+      </div>
+
+      <div class="actions">
+        <button (click)="cancel()" class="btn btn-secondary">Cancel</button>
+        <button (click)="borrowBook()" class="btn btn-primary">Confirm Borrow Request</button>
+      </div>
+    </div>
+
+    <div *ngIf="!book.isAvilable" class="unavailable-message">
+      <p>This book is currently unavailable for borrowing.</p>
+      <button (click)="cancel()" class="btn btn-secondary">Back to Search</button>
+    </div>
+  </div>
+</div>
+<app-popup #popup></app-popup>

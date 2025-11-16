@@ -1,0 +1,43 @@
+<app-popup #popup></app-popup>
+<div class="login-container">
+  <div class="login-content">
+    <div class="login-card">
+      <h1 class="login-title">LOGIN</h1>
+
+      <form (ngSubmit)="onLogin()" class="login-form">
+        <div class="form-group">
+          <label for="Email">Email</label>
+          <input type="text"
+                 id="Email"
+                 [(ngModel)]="Email"
+                 name="Email"
+                 class="form-input"
+                 required>
+        </div>
+
+        <div class="form-group">
+          <label for="password">password</label>
+          <input type="password"
+                 id="password"
+                 [(ngModel)]="password"
+                 name="password"
+                 class="form-input"
+                 required>
+        </div>
+
+        <div class="forgot-password">
+          <a href="#" class="forgot-link" (click)="$event.preventDefault()">forgot password?</a>
+        </div>
+
+        <button type="submit" class="login-btn">LOGIN</button>
+      </form>
+
+      <div class="signup-section">
+        <p>
+          New to E-library ?
+          <span class="signup-link" (click)="onSignUp()">SIGN UP</span>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>

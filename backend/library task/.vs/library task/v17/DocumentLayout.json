@@ -1,0 +1,870 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\library task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA22FE1-790C-4A27-B4FB-74150D9F3A5C}|library task\\library_mangment.csproj|d:\\library task\\library task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA22FE1-790C-4A27-B4FB-74150D9F3A5C}|library task\\library_mangment.csproj|solutionrelative:library task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|d:\\library task\\libaraey.application\\library.application\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|solutionrelative:libaraey.application\\library.application\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|d:\\library task\\libaraey.application\\library.application\\dto\\ratedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|solutionrelative:libaraey.application\\library.application\\dto\\ratedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|d:\\library task\\libaraey.application\\library.application\\dto\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|solutionrelative:libaraey.application\\library.application\\dto\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA22FE1-790C-4A27-B4FB-74150D9F3A5C}|library task\\library_mangment.csproj|d:\\library task\\library task\\library.api\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA22FE1-790C-4A27-B4FB-74150D9F3A5C}|library task\\library_mangment.csproj|solutionrelative:library task\\library.api\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\library..APPLICATION.csproj|d:\\library task\\libaraey.application\\library..application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\library..APPLICATION.csproj|solutionrelative:libaraey.application\\library..application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|d:\\library task\\libaraey.application\\library.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|solutionrelative:libaraey.application\\library.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|d:\\library task\\libaraey.application\\library.application\\services\\rateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|solutionrelative:libaraey.application\\library.application\\services\\rateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|d:\\library task\\libaraey.application\\library.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|solutionrelative:libaraey.application\\library.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|d:\\library task\\libaraey.application\\library.application\\services\\requestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|solutionrelative:libaraey.application\\library.application\\services\\requestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|d:\\library task\\libaraey.application\\library.application\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|solutionrelative:libaraey.application\\library.application\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|d:\\library task\\library.intrastructure\\library.infrastructure\\appdbcontext\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|solutionrelative:library.intrastructure\\library.infrastructure\\appdbcontext\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC85FC-FB70-4BD8-A844-E2649A108790}|library.DOMAIN\\library.DOMAIN.csproj|d:\\library task\\library.domain\\library.domain\\entities\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC85FC-FB70-4BD8-A844-E2649A108790}|library.DOMAIN\\library.DOMAIN.csproj|solutionrelative:library.domain\\library.domain\\entities\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC85FC-FB70-4BD8-A844-E2649A108790}|library.DOMAIN\\library.DOMAIN.csproj|d:\\library task\\library.domain\\library.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC85FC-FB70-4BD8-A844-E2649A108790}|library.DOMAIN\\library.DOMAIN.csproj|solutionrelative:library.domain\\library.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|d:\\library task\\library.intrastructure\\library.infrastructure\\notif\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|solutionrelative:library.intrastructure\\library.infrastructure\\notif\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA22FE1-790C-4A27-B4FB-74150D9F3A5C}|library task\\library_mangment.csproj|d:\\library task\\library task\\library.api\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA22FE1-790C-4A27-B4FB-74150D9F3A5C}|library task\\library_mangment.csproj|solutionrelative:library task\\library.api\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA22FE1-790C-4A27-B4FB-74150D9F3A5C}|library task\\library_mangment.csproj|d:\\library task\\library task\\library.api\\controllers\\bookcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA22FE1-790C-4A27-B4FB-74150D9F3A5C}|library task\\library_mangment.csproj|solutionrelative:library task\\library.api\\controllers\\bookcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA22FE1-790C-4A27-B4FB-74150D9F3A5C}|library task\\library_mangment.csproj|d:\\library task\\library task\\library.api\\controllers\\borrowrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA22FE1-790C-4A27-B4FB-74150D9F3A5C}|library task\\library_mangment.csproj|solutionrelative:library task\\library.api\\controllers\\borrowrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|d:\\library task\\libaraey.application\\library.application\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|solutionrelative:libaraey.application\\library.application\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|d:\\library task\\library.intrastructure\\library.infrastructure\\repos\\requestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|solutionrelative:library.intrastructure\\library.infrastructure\\repos\\requestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|d:\\library task\\libaraey.application\\library.application\\interface\\irequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|solutionrelative:libaraey.application\\library.application\\interface\\irequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|d:\\library task\\libaraey.application\\library.application\\interface\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|solutionrelative:libaraey.application\\library.application\\interface\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA22FE1-790C-4A27-B4FB-74150D9F3A5C}|library task\\library_mangment.csproj|d:\\library task\\library task\\library task.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7BA22FE1-790C-4A27-B4FB-74150D9F3A5C}|library task\\library_mangment.csproj|solutionrelative:library task\\library task.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA22FE1-790C-4A27-B4FB-74150D9F3A5C}|library task\\library_mangment.csproj|d:\\library task\\library task\\library.api\\controllers\\ratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA22FE1-790C-4A27-B4FB-74150D9F3A5C}|library task\\library_mangment.csproj|solutionrelative:library task\\library.api\\controllers\\ratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|d:\\library task\\libaraey.application\\library.application\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|solutionrelative:libaraey.application\\library.application\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|d:\\library task\\libaraey.application\\library.application\\services\\borrowreturnservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|solutionrelative:libaraey.application\\library.application\\services\\borrowreturnservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC85FC-FB70-4BD8-A844-E2649A108790}|library.DOMAIN\\library.DOMAIN.csproj|d:\\library task\\library.domain\\library.domain\\entities\\requests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC85FC-FB70-4BD8-A844-E2649A108790}|library.DOMAIN\\library.DOMAIN.csproj|solutionrelative:library.domain\\library.domain\\entities\\requests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|d:\\library task\\library.intrastructure\\library.infrastructure\\repos\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|solutionrelative:library.intrastructure\\library.infrastructure\\repos\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|d:\\library task\\libaraey.application\\library.application\\dto\\approvereqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|solutionrelative:libaraey.application\\library.application\\dto\\approvereqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|d:\\library task\\libaraey.application\\library.application\\dto\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|solutionrelative:libaraey.application\\library.application\\dto\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA22FE1-790C-4A27-B4FB-74150D9F3A5C}|library task\\library_mangment.csproj|d:\\library task\\library task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BA22FE1-790C-4A27-B4FB-74150D9F3A5C}|library task\\library_mangment.csproj|solutionrelative:library task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|d:\\library task\\libaraey.application\\library.application\\dto\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|solutionrelative:libaraey.application\\library.application\\dto\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|d:\\library task\\library.intrastructure\\library.infrastructure\\repos\\borrowrecordrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|solutionrelative:library.intrastructure\\library.infrastructure\\repos\\borrowrecordrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|d:\\library task\\library.intrastructure\\library.infrastructure\\repos\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|solutionrelative:library.intrastructure\\library.infrastructure\\repos\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC85FC-FB70-4BD8-A844-E2649A108790}|library.DOMAIN\\library.DOMAIN.csproj|d:\\library task\\library.domain\\library.domain\\entities\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC85FC-FB70-4BD8-A844-E2649A108790}|library.DOMAIN\\library.DOMAIN.csproj|solutionrelative:library.domain\\library.domain\\entities\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA22FE1-790C-4A27-B4FB-74150D9F3A5C}|library task\\library_mangment.csproj|d:\\library task\\library task\\library_mangment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7BA22FE1-790C-4A27-B4FB-74150D9F3A5C}|library task\\library_mangment.csproj|solutionrelative:library task\\library_mangment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC85FC-FB70-4BD8-A844-E2649A108790}|library.DOMAIN\\library.DOMAIN.csproj|d:\\library task\\library.domain\\library.domain\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC85FC-FB70-4BD8-A844-E2649A108790}|library.DOMAIN\\library.DOMAIN.csproj|solutionrelative:library.domain\\library.domain\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|d:\\library task\\libaraey.application\\library.application\\interface\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|solutionrelative:libaraey.application\\library.application\\interface\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC85FC-FB70-4BD8-A844-E2649A108790}|library.DOMAIN\\library.DOMAIN.csproj|d:\\library task\\library.domain\\library.domain\\interface\\imemberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC85FC-FB70-4BD8-A844-E2649A108790}|library.DOMAIN\\library.DOMAIN.csproj|solutionrelative:library.domain\\library.domain\\interface\\imemberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|d:\\library task\\libaraey.application\\library.application\\interface\\irateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4027B5-239B-4A27-BAAA-D643801C9788}|libaraey.APPLICATION\\libaraey.APPLICATION.csproj|solutionrelative:libaraey.application\\library.application\\interface\\irateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|d:\\library task\\library.intrastructure\\library.infrastructure\\repos\\raterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|solutionrelative:library.intrastructure\\library.infrastructure\\repos\\raterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|d:\\library task\\library.intrastructure\\migrations\\20251110114127_seedadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|solutionrelative:library.intrastructure\\migrations\\20251110114127_seedadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|d:\\library task\\library.intrastructure\\migrations\\dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|solutionrelative:library.intrastructure\\migrations\\dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|d:\\library task\\library.intrastructure\\migrations\\20251110112549_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|solutionrelative:library.intrastructure\\migrations\\20251110112549_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC85FC-FB70-4BD8-A844-E2649A108790}|library.DOMAIN\\library.DOMAIN.csproj|d:\\library task\\library.domain\\library.domain\\interface\\irequestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC85FC-FB70-4BD8-A844-E2649A108790}|library.DOMAIN\\library.DOMAIN.csproj|solutionrelative:library.domain\\library.domain\\interface\\irequestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DC85FC-FB70-4BD8-A844-E2649A108790}|library.DOMAIN\\library.DOMAIN.csproj|d:\\library task\\library.domain\\library.domain\\interface\\iraterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DC85FC-FB70-4BD8-A844-E2649A108790}|library.DOMAIN\\library.DOMAIN.csproj|solutionrelative:library.domain\\library.domain\\interface\\iraterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|d:\\library task\\library.intrastructure\\migrations\\20251111170251_ahh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|solutionrelative:library.intrastructure\\migrations\\20251111170251_ahh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|d:\\library task\\library.intrastructure\\migrations\\20251111165631_addti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|solutionrelative:library.intrastructure\\migrations\\20251111165631_addti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|d:\\library task\\library.intrastructure\\migrations\\20251111145846_addmemberimageurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|solutionrelative:library.intrastructure\\migrations\\20251111145846_addmemberimageurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|d:\\library task\\library.intrastructure\\migrations\\20251110121338_migrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9ABB8F-F956-471B-9891-877495C32253}|library.intrastructure\\library.intrastructure.csproj|solutionrelative:library.intrastructure\\migrations\\20251110121338_migrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 47,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "library..APPLICATION.csproj",
+              "DocumentMoniker": "D:\\library task\\libaraey.APPLICATION\\library..APPLICATION.csproj",
+              "RelativeDocumentMoniker": "libaraey.APPLICATION\\library..APPLICATION.csproj",
+              "ToolTip": "D:\\library task\\libaraey.APPLICATION\\library..APPLICATION.csproj",
+              "RelativeToolTip": "libaraey.APPLICATION\\library..APPLICATION.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T13:16:18.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "D:\\library task\\library.intrastructure\\library.Infrastructure\\notif\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "library.intrastructure\\library.Infrastructure\\notif\\NotificationHub.cs",
+              "ToolTip": "D:\\library task\\library.intrastructure\\library.Infrastructure\\notif\\NotificationHub.cs",
+              "RelativeToolTip": "library.intrastructure\\library.Infrastructure\\notif\\NotificationHub.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T00:15:37.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "library task.http",
+              "DocumentMoniker": "D:\\library task\\library task\\library task.http",
+              "RelativeDocumentMoniker": "library task\\library task.http",
+              "ToolTip": "D:\\library task\\library task\\library task.http",
+              "RelativeToolTip": "library task\\library task.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-11T20:57:00.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20251111170251_Ahh.cs",
+              "DocumentMoniker": "D:\\library task\\library.intrastructure\\Migrations\\20251111170251_Ahh.cs",
+              "RelativeDocumentMoniker": "library.intrastructure\\Migrations\\20251111170251_Ahh.cs",
+              "ToolTip": "D:\\library task\\library.intrastructure\\Migrations\\20251111170251_Ahh.cs",
+              "RelativeToolTip": "library.intrastructure\\Migrations\\20251111170251_Ahh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T17:02:51.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20251111165631_Addti.cs",
+              "DocumentMoniker": "D:\\library task\\library.intrastructure\\Migrations\\20251111165631_Addti.cs",
+              "RelativeDocumentMoniker": "library.intrastructure\\Migrations\\20251111165631_Addti.cs",
+              "ToolTip": "D:\\library task\\library.intrastructure\\Migrations\\20251111165631_Addti.cs",
+              "RelativeToolTip": "library.intrastructure\\Migrations\\20251111165631_Addti.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:56:31.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "D:\\library task\\libaraey.APPLICATION\\library.Application\\interface\\IBookService.cs",
+              "RelativeDocumentMoniker": "libaraey.APPLICATION\\library.Application\\interface\\IBookService.cs",
+              "ToolTip": "D:\\library task\\libaraey.APPLICATION\\library.Application\\interface\\IBookService.cs",
+              "RelativeToolTip": "libaraey.APPLICATION\\library.Application\\interface\\IBookService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:52:42.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "library_mangment.csproj",
+              "DocumentMoniker": "D:\\library task\\library task\\library_mangment.csproj",
+              "RelativeDocumentMoniker": "library task\\library_mangment.csproj",
+              "ToolTip": "D:\\library task\\library task\\library_mangment.csproj",
+              "RelativeToolTip": "library task\\library_mangment.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-11T16:39:05.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IauthService.cs",
+              "DocumentMoniker": "D:\\library task\\libaraey.APPLICATION\\library.Application\\interface\\IauthService.cs",
+              "RelativeDocumentMoniker": "libaraey.APPLICATION\\library.Application\\interface\\IauthService.cs",
+              "ToolTip": "D:\\library task\\libaraey.APPLICATION\\library.Application\\interface\\IauthService.cs",
+              "RelativeToolTip": "libaraey.APPLICATION\\library.Application\\interface\\IauthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T11:01:50.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20251111145846_AddMemberImageUrl.cs",
+              "DocumentMoniker": "D:\\library task\\library.intrastructure\\Migrations\\20251111145846_AddMemberImageUrl.cs",
+              "RelativeDocumentMoniker": "library.intrastructure\\Migrations\\20251111145846_AddMemberImageUrl.cs",
+              "ToolTip": "D:\\library task\\library.intrastructure\\Migrations\\20251111145846_AddMemberImageUrl.cs",
+              "RelativeToolTip": "library.intrastructure\\Migrations\\20251111145846_AddMemberImageUrl.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T14:58:47.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "D:\\library task\\libaraey.APPLICATION\\library.Application\\dto\\BookDto.cs",
+              "RelativeDocumentMoniker": "libaraey.APPLICATION\\library.Application\\dto\\BookDto.cs",
+              "ToolTip": "D:\\library task\\libaraey.APPLICATION\\library.Application\\dto\\BookDto.cs",
+              "RelativeToolTip": "libaraey.APPLICATION\\library.Application\\dto\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T14:27:58.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RateController.cs",
+              "DocumentMoniker": "D:\\library task\\library task\\library.API\\Controllers\\RateController.cs",
+              "RelativeDocumentMoniker": "library task\\library.API\\Controllers\\RateController.cs",
+              "ToolTip": "D:\\library task\\library task\\library.API\\Controllers\\RateController.cs",
+              "RelativeToolTip": "library task\\library.API\\Controllers\\RateController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwBIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T19:49:10.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "rateService.cs",
+              "DocumentMoniker": "D:\\library task\\libaraey.APPLICATION\\library.Application\\services\\rateService.cs",
+              "RelativeDocumentMoniker": "libaraey.APPLICATION\\library.Application\\services\\rateService.cs",
+              "ToolTip": "D:\\library task\\libaraey.APPLICATION\\library.Application\\services\\rateService.cs",
+              "RelativeToolTip": "libaraey.APPLICATION\\library.Application\\services\\rateService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:28:23.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IrateService.cs",
+              "DocumentMoniker": "D:\\library task\\libaraey.APPLICATION\\library.Application\\interface\\IrateService.cs",
+              "RelativeDocumentMoniker": "libaraey.APPLICATION\\library.Application\\interface\\IrateService.cs",
+              "ToolTip": "D:\\library task\\libaraey.APPLICATION\\library.Application\\interface\\IrateService.cs",
+              "RelativeToolTip": "libaraey.APPLICATION\\library.Application\\interface\\IrateService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAASwAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:26:59.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ratedto.cs",
+              "DocumentMoniker": "D:\\library task\\libaraey.APPLICATION\\library.Application\\dto\\ratedto.cs",
+              "RelativeDocumentMoniker": "libaraey.APPLICATION\\library.Application\\dto\\ratedto.cs",
+              "ToolTip": "D:\\library task\\libaraey.APPLICATION\\library.Application\\dto\\ratedto.cs",
+              "RelativeToolTip": "libaraey.APPLICATION\\library.Application\\dto\\ratedto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:13:56.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "book.cs",
+              "DocumentMoniker": "D:\\library task\\library.DOMAIN\\library.domain\\entities\\book.cs",
+              "RelativeDocumentMoniker": "library.DOMAIN\\library.domain\\entities\\book.cs",
+              "ToolTip": "D:\\library task\\library.DOMAIN\\library.domain\\entities\\book.cs",
+              "RelativeToolTip": "library.DOMAIN\\library.domain\\entities\\book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:51:21.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BookRepo.cs",
+              "DocumentMoniker": "D:\\library task\\library.intrastructure\\library.Infrastructure\\Repos\\BookRepo.cs",
+              "RelativeDocumentMoniker": "library.intrastructure\\library.Infrastructure\\Repos\\BookRepo.cs",
+              "ToolTip": "D:\\library task\\library.intrastructure\\library.Infrastructure\\Repos\\BookRepo.cs",
+              "RelativeToolTip": "library.intrastructure\\library.Infrastructure\\Repos\\BookRepo.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:51:08.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "approvereqDto.cs",
+              "DocumentMoniker": "D:\\library task\\libaraey.APPLICATION\\library.Application\\dto\\approvereqDto.cs",
+              "RelativeDocumentMoniker": "libaraey.APPLICATION\\library.Application\\dto\\approvereqDto.cs",
+              "ToolTip": "D:\\library task\\libaraey.APPLICATION\\library.Application\\dto\\approvereqDto.cs",
+              "RelativeToolTip": "libaraey.APPLICATION\\library.Application\\dto\\approvereqDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:39:16.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateBookDto.cs",
+              "DocumentMoniker": "D:\\library task\\libaraey.APPLICATION\\library.Application\\dto\\CreateBookDto.cs",
+              "RelativeDocumentMoniker": "libaraey.APPLICATION\\library.Application\\dto\\CreateBookDto.cs",
+              "ToolTip": "D:\\library task\\libaraey.APPLICATION\\library.Application\\dto\\CreateBookDto.cs",
+              "RelativeToolTip": "libaraey.APPLICATION\\library.Application\\dto\\CreateBookDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:39:02.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IMemberService.cs",
+              "DocumentMoniker": "D:\\library task\\libaraey.APPLICATION\\library.Application\\interface\\IMemberService.cs",
+              "RelativeDocumentMoniker": "libaraey.APPLICATION\\library.Application\\interface\\IMemberService.cs",
+              "ToolTip": "D:\\library task\\libaraey.APPLICATION\\library.Application\\interface\\IMemberService.cs",
+              "RelativeToolTip": "libaraey.APPLICATION\\library.Application\\interface\\IMemberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:17:45.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "logindto.cs",
+              "DocumentMoniker": "D:\\library task\\libaraey.APPLICATION\\library.Application\\dto\\logindto.cs",
+              "RelativeDocumentMoniker": "libaraey.APPLICATION\\library.Application\\dto\\logindto.cs",
+              "ToolTip": "D:\\library task\\libaraey.APPLICATION\\library.Application\\dto\\logindto.cs",
+              "RelativeToolTip": "libaraey.APPLICATION\\library.Application\\dto\\logindto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:17:39.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20251110121338_MigrationName.cs",
+              "DocumentMoniker": "D:\\library task\\library.intrastructure\\Migrations\\20251110121338_MigrationName.cs",
+              "RelativeDocumentMoniker": "library.intrastructure\\Migrations\\20251110121338_MigrationName.cs",
+              "ToolTip": "D:\\library task\\library.intrastructure\\Migrations\\20251110121338_MigrationName.cs",
+              "RelativeToolTip": "library.intrastructure\\Migrations\\20251110121338_MigrationName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:13:38.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MemberDto.cs",
+              "DocumentMoniker": "D:\\library task\\libaraey.APPLICATION\\library.Application\\dto\\MemberDto.cs",
+              "RelativeDocumentMoniker": "libaraey.APPLICATION\\library.Application\\dto\\MemberDto.cs",
+              "ToolTip": "D:\\library task\\libaraey.APPLICATION\\library.Application\\dto\\MemberDto.cs",
+              "RelativeToolTip": "libaraey.APPLICATION\\library.Application\\dto\\MemberDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:55:29.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20251110114127_SeedAdmin.cs",
+              "DocumentMoniker": "D:\\library task\\library.intrastructure\\Migrations\\20251110114127_SeedAdmin.cs",
+              "RelativeDocumentMoniker": "library.intrastructure\\Migrations\\20251110114127_SeedAdmin.cs",
+              "ToolTip": "D:\\library task\\library.intrastructure\\Migrations\\20251110114127_SeedAdmin.cs",
+              "RelativeToolTip": "library.intrastructure\\Migrations\\20251110114127_SeedAdmin.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:41:28.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DbcontextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\library task\\library.intrastructure\\Migrations\\DbcontextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "library.intrastructure\\Migrations\\DbcontextModelSnapshot.cs",
+              "ToolTip": "D:\\library task\\library.intrastructure\\Migrations\\DbcontextModelSnapshot.cs",
+              "RelativeToolTip": "library.intrastructure\\Migrations\\DbcontextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:36:09.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20251110112549_InitialCreate.cs",
+              "DocumentMoniker": "D:\\library task\\library.intrastructure\\Migrations\\20251110112549_InitialCreate.cs",
+              "RelativeDocumentMoniker": "library.intrastructure\\Migrations\\20251110112549_InitialCreate.cs",
+              "ToolTip": "D:\\library task\\library.intrastructure\\Migrations\\20251110112549_InitialCreate.cs",
+              "RelativeToolTip": "library.intrastructure\\Migrations\\20251110112549_InitialCreate.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:25:49.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RequestController.cs",
+              "DocumentMoniker": "D:\\library task\\library task\\library.API\\Controllers\\RequestController.cs",
+              "RelativeDocumentMoniker": "library task\\library.API\\Controllers\\RequestController.cs",
+              "ToolTip": "D:\\library task\\library task\\library.API\\Controllers\\RequestController.cs",
+              "RelativeToolTip": "library task\\library.API\\Controllers\\RequestController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADgv1wAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:41:37.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MemberRepo.cs",
+              "DocumentMoniker": "D:\\library task\\library.intrastructure\\library.Infrastructure\\Repos\\MemberRepo.cs",
+              "RelativeDocumentMoniker": "library.intrastructure\\library.Infrastructure\\Repos\\MemberRepo.cs",
+              "ToolTip": "D:\\library task\\library.intrastructure\\library.Infrastructure\\Repos\\MemberRepo.cs",
+              "RelativeToolTip": "library.intrastructure\\library.Infrastructure\\Repos\\MemberRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:40:32.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "requestDTO.cs",
+              "DocumentMoniker": "D:\\library task\\libaraey.APPLICATION\\library.Application\\dto\\requestDTO.cs",
+              "RelativeDocumentMoniker": "libaraey.APPLICATION\\library.Application\\dto\\requestDTO.cs",
+              "ToolTip": "D:\\library task\\libaraey.APPLICATION\\library.Application\\dto\\requestDTO.cs",
+              "RelativeToolTip": "libaraey.APPLICATION\\library.Application\\dto\\requestDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:17:52.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\library task\\libaraey.APPLICATION\\library.Application\\services\\BookService.cs",
+              "RelativeDocumentMoniker": "libaraey.APPLICATION\\library.Application\\services\\BookService.cs",
+              "ToolTip": "D:\\library task\\libaraey.APPLICATION\\library.Application\\services\\BookService.cs",
+              "RelativeToolTip": "libaraey.APPLICATION\\library.Application\\services\\BookService.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:16:21.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "requestService.cs",
+              "DocumentMoniker": "D:\\library task\\libaraey.APPLICATION\\library.Application\\services\\requestService.cs",
+              "RelativeDocumentMoniker": "libaraey.APPLICATION\\library.Application\\services\\requestService.cs",
+              "ToolTip": "D:\\library task\\libaraey.APPLICATION\\library.Application\\services\\requestService.cs",
+              "RelativeToolTip": "libaraey.APPLICATION\\library.Application\\services\\requestService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAhwGMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:16:14.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IrequestService.cs",
+              "DocumentMoniker": "D:\\library task\\libaraey.APPLICATION\\library.Application\\interface\\IrequestService.cs",
+              "RelativeDocumentMoniker": "libaraey.APPLICATION\\library.Application\\interface\\IrequestService.cs",
+              "ToolTip": "D:\\library task\\libaraey.APPLICATION\\library.Application\\interface\\IrequestService.cs",
+              "RelativeToolTip": "libaraey.APPLICATION\\library.Application\\interface\\IrequestService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:13:57.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "requestRepo.cs",
+              "DocumentMoniker": "D:\\library task\\library.intrastructure\\library.Infrastructure\\Repos\\requestRepo.cs",
+              "RelativeDocumentMoniker": "library.intrastructure\\library.Infrastructure\\Repos\\requestRepo.cs",
+              "ToolTip": "D:\\library task\\library.intrastructure\\library.Infrastructure\\Repos\\requestRepo.cs",
+              "RelativeToolTip": "library.intrastructure\\library.Infrastructure\\Repos\\requestRepo.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:25:39.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BorrowRecordRepo.cs",
+              "DocumentMoniker": "D:\\library task\\library.intrastructure\\library.Infrastructure\\Repos\\BorrowRecordRepo.cs",
+              "RelativeDocumentMoniker": "library.intrastructure\\library.Infrastructure\\Repos\\BorrowRecordRepo.cs",
+              "ToolTip": "D:\\library task\\library.intrastructure\\library.Infrastructure\\Repos\\BorrowRecordRepo.cs",
+              "RelativeToolTip": "library.intrastructure\\library.Infrastructure\\Repos\\BorrowRecordRepo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:24:57.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "rateRepo.cs",
+              "DocumentMoniker": "D:\\library task\\library.intrastructure\\library.Infrastructure\\Repos\\rateRepo.cs",
+              "RelativeDocumentMoniker": "library.intrastructure\\library.Infrastructure\\Repos\\rateRepo.cs",
+              "ToolTip": "D:\\library task\\library.intrastructure\\library.Infrastructure\\Repos\\rateRepo.cs",
+              "RelativeToolTip": "library.intrastructure\\library.Infrastructure\\Repos\\rateRepo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:24:53.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbcontext.cs",
+              "DocumentMoniker": "D:\\library task\\library.intrastructure\\library.Infrastructure\\appdbcontext\\dbcontext.cs",
+              "RelativeDocumentMoniker": "library.intrastructure\\library.Infrastructure\\appdbcontext\\dbcontext.cs",
+              "ToolTip": "D:\\library task\\library.intrastructure\\library.Infrastructure\\appdbcontext\\dbcontext.cs",
+              "RelativeToolTip": "library.intrastructure\\library.Infrastructure\\appdbcontext\\dbcontext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACEAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:21:02.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IMemberRepo.cs",
+              "DocumentMoniker": "D:\\library task\\library.DOMAIN\\library.domain\\interface\\IMemberRepo.cs",
+              "RelativeDocumentMoniker": "library.DOMAIN\\library.domain\\interface\\IMemberRepo.cs",
+              "ToolTip": "D:\\library task\\library.DOMAIN\\library.domain\\interface\\IMemberRepo.cs",
+              "RelativeToolTip": "library.DOMAIN\\library.domain\\interface\\IMemberRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:07:20.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IrequestRepo.cs",
+              "DocumentMoniker": "D:\\library task\\library.DOMAIN\\library.domain\\interface\\IrequestRepo.cs",
+              "RelativeDocumentMoniker": "library.DOMAIN\\library.domain\\interface\\IrequestRepo.cs",
+              "ToolTip": "D:\\library task\\library.DOMAIN\\library.domain\\interface\\IrequestRepo.cs",
+              "RelativeToolTip": "library.DOMAIN\\library.domain\\interface\\IrequestRepo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:07:18.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "requests.cs",
+              "DocumentMoniker": "D:\\library task\\library.DOMAIN\\library.domain\\entities\\requests.cs",
+              "RelativeDocumentMoniker": "library.DOMAIN\\library.domain\\entities\\requests.cs",
+              "ToolTip": "D:\\library task\\library.DOMAIN\\library.domain\\entities\\requests.cs",
+              "RelativeToolTip": "library.DOMAIN\\library.domain\\entities\\requests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:06:06.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IrateRepo.cs",
+              "DocumentMoniker": "D:\\library task\\library.DOMAIN\\library.domain\\interface\\IrateRepo.cs",
+              "RelativeDocumentMoniker": "library.DOMAIN\\library.domain\\interface\\IrateRepo.cs",
+              "ToolTip": "D:\\library task\\library.DOMAIN\\library.domain\\interface\\IrateRepo.cs",
+              "RelativeToolTip": "library.DOMAIN\\library.domain\\interface\\IrateRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:05:37.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BorrowRecord.cs",
+              "DocumentMoniker": "D:\\library task\\library.DOMAIN\\library.domain\\entities\\BorrowRecord.cs",
+              "RelativeDocumentMoniker": "library.DOMAIN\\library.domain\\entities\\BorrowRecord.cs",
+              "ToolTip": "D:\\library task\\library.DOMAIN\\library.domain\\entities\\BorrowRecord.cs",
+              "RelativeToolTip": "library.DOMAIN\\library.domain\\entities\\BorrowRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:04:24.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "rate.cs",
+              "DocumentMoniker": "D:\\library task\\library.DOMAIN\\library.domain\\entities\\rate.cs",
+              "RelativeDocumentMoniker": "library.DOMAIN\\library.domain\\entities\\rate.cs",
+              "ToolTip": "D:\\library task\\library.DOMAIN\\library.domain\\entities\\rate.cs",
+              "RelativeToolTip": "library.DOMAIN\\library.domain\\entities\\rate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:04:15.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "D:\\library task\\library task\\library.API\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "library task\\library.API\\Controllers\\MemberController.cs",
+              "ToolTip": "D:\\library task\\library task\\library.API\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "library task\\library.API\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAwwD8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:27:05.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "member.cs",
+              "DocumentMoniker": "D:\\library task\\library.DOMAIN\\library.domain\\entities\\member.cs",
+              "RelativeDocumentMoniker": "library.DOMAIN\\library.domain\\entities\\member.cs",
+              "ToolTip": "D:\\library task\\library.DOMAIN\\library.domain\\entities\\member.cs",
+              "RelativeToolTip": "library.DOMAIN\\library.domain\\entities\\member.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:25:29.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "D:\\library task\\libaraey.APPLICATION\\library.Application\\services\\MemberService.cs",
+              "RelativeDocumentMoniker": "libaraey.APPLICATION\\library.Application\\services\\MemberService.cs",
+              "ToolTip": "D:\\library task\\libaraey.APPLICATION\\library.Application\\services\\MemberService.cs",
+              "RelativeToolTip": "libaraey.APPLICATION\\library.Application\\services\\MemberService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowG0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:02:15.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BorrowRecordController.cs",
+              "DocumentMoniker": "D:\\library task\\library task\\library.API\\Controllers\\BorrowRecordController.cs",
+              "RelativeDocumentMoniker": "library task\\library.API\\Controllers\\BorrowRecordController.cs",
+              "ToolTip": "D:\\library task\\library task\\library.API\\Controllers\\BorrowRecordController.cs",
+              "RelativeToolTip": "library task\\library.API\\Controllers\\BorrowRecordController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T23:44:34.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "bookcontroler.cs",
+              "DocumentMoniker": "D:\\library task\\library task\\library.API\\Controllers\\bookcontroler.cs",
+              "RelativeDocumentMoniker": "library task\\library.API\\Controllers\\bookcontroler.cs",
+              "ToolTip": "D:\\library task\\library task\\library.API\\Controllers\\bookcontroler.cs",
+              "RelativeToolTip": "library task\\library.API\\Controllers\\bookcontroler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T23:44:20.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BorrowReturnService.cs",
+              "DocumentMoniker": "D:\\library task\\libaraey.APPLICATION\\library.Application\\services\\BorrowReturnService.cs",
+              "RelativeDocumentMoniker": "libaraey.APPLICATION\\library.Application\\services\\BorrowReturnService.cs",
+              "ToolTip": "D:\\library task\\libaraey.APPLICATION\\library.Application\\services\\BorrowReturnService.cs",
+              "RelativeToolTip": "libaraey.APPLICATION\\library.Application\\services\\BorrowReturnService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T23:40:41.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\library task\\library task\\Program.cs",
+              "RelativeDocumentMoniker": "library task\\Program.cs",
+              "ToolTip": "D:\\library task\\library task\\Program.cs",
+              "RelativeToolTip": "library task\\Program.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAADwv4sAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T23:27:54.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\library task\\library task\\appsettings.json",
+              "RelativeDocumentMoniker": "library task\\appsettings.json",
+              "ToolTip": "D:\\library task\\library task\\appsettings.json",
+              "RelativeToolTip": "library task\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-09T23:18:15.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "authService.cs",
+              "DocumentMoniker": "D:\\library task\\libaraey.APPLICATION\\library.Application\\services\\authService.cs",
+              "RelativeDocumentMoniker": "libaraey.APPLICATION\\library.Application\\services\\authService.cs",
+              "ToolTip": "D:\\library task\\libaraey.APPLICATION\\library.Application\\services\\authService.cs",
+              "RelativeToolTip": "libaraey.APPLICATION\\library.Application\\services\\authService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T23:23:57.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

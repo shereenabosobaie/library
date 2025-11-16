@@ -1,0 +1,40 @@
+<div class="home-container">
+  
+  <section class="welcome-section">
+    <h1 class="welcome-title">Welcome to <br> <span class="highlight">e-Library</span></h1>
+    <p class="welcome-text">
+      Discover, borrow, and explore books across all genres.
+    </p>
+  </section>
+
+  
+  <section class="books-section">
+    <h2 class="section-title">📖 Recently Added Books</h2>
+
+    <div *ngIf="isLoading" class="loading">Loading recent books...</div>
+    <div *ngIf="!isLoading && errorMessage" class="error">{{ errorMessage }}</div>
+
+    <div class="books-grid" *ngIf="!isLoading && books.length > 0">
+      <div class="book-card" *ngFor="let book of books" (click)="viewBook(book.id || book.Id)">
+        <div class="book-cover">
+          <img [src]="'http://localhost:5114' + (book.imageUrl || book.ImageUrl)"
+               [alt]="book.title || book.Title"
+               class="book-image"
+               onerror="this.src='assets/default-book.png'" />
+        </div>
+
+        <div class="book-info">
+          <h3 class="book-title">{{ book.title || book.Title }}</h3>
+          <p class="book-author">by {{ book.author || book.Author }}</p>
+          <p class="book-date">
+            Added: {{ (book.addedTime || book.AddedTime) | date: 'mediumDate' }}
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div *ngIf="!isLoading && books.length === 0" class="no-books">
+      No recent books available.
+    </div>
+  </section>
+</div>

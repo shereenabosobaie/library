@@ -1,0 +1,156 @@
+.dashboard-container {
+  padding: 2rem;
+  background: #f8f9fa;
+  min-height: calc(100vh - 80px);
+  font-family: "Segoe UI", sans-serif;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #2c3e50;
+  font-weight: 700;
+}
+
+.error {
+  color: #e74c3c;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.requests-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+  .requests-table th,
+  .requests-table td {
+    padding: 1rem;
+    text-align: center;
+    border-bottom: 1px solid #ecf0f1;
+  }
+
+  .requests-table th {
+    background-color: #3498db;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .requests-table tr:hover {
+    background-color: #f2f6f9;
+  }
+
+.book-cell {
+  text-align: left;
+}
+
+.book-info {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.book-cover {
+  width: 50px;
+  height: 70px;
+  object-fit: cover;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+}
+
+.book-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.book-title {
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.book-id {
+  color: #7f8c8d;
+  font-size: 0.8rem;
+}
+
+.member-info {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  justify-content: center;
+}
+
+.member-icon {
+  font-size: 1.2rem;
+}
+
+.pending {
+  color: #f1c40f;
+  font-weight: 600;
+}
+
+.approved {
+  color: #27ae60;
+  font-weight: 600;
+}
+
+.rejected {
+  color: #e74c3c;
+  font-weight: 600;
+}
+
+.actions {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.approve-btn,
+.reject-btn {
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 0.9rem;
+  transition: background-color 0.2s ease;
+}
+
+.approve-btn {
+  background-color: #27ae60;
+  color: white;
+}
+
+  .approve-btn:hover {
+    background-color: #219150;
+  }
+
+.reject-btn {
+  background-color: #e74c3c;
+  color: white;
+}
+
+  .reject-btn:hover {
+    background-color: #c0392b;
+  }
+
+.empty {
+  text-align: center;
+  color: #7f8c8d;
+  font-style: italic;
+  margin-top: 2rem;
+}
+.notification-indicator {
+  width: 12px;
+  height: 12px;
+  background-color: #2ecc71;
+  border-radius: 50%;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}

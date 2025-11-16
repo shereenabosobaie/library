@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.VisualStudio.JavaScript.Sdk/1.0.2752196">
+  <PropertyGroup>
+    <StartupCommand>npm start</StartupCommand>
+    <JavaScriptTestFramework>Jasmine</JavaScriptTestFramework>
+    <!-- Allows the build (or compile) script located on package.json to run on Build -->
+    <ShouldRunBuildScript>false</ShouldRunBuildScript>
+    <!-- Folder where production build objects will be placed -->
+    <BuildOutputFolder>$(MSBuildProjectDirectory)\dist\AngularProject1\browser\</BuildOutputFolder>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="src\app\singin\**" />
+    <None Remove="src\NewFolder\**" />
+    <TypeScriptConfiguration Remove="src\app\singin\**" />
+    <TypeScriptConfiguration Remove="src\NewFolder\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="src\assets\images\images3.jpg" />
+    <None Remove="src\AuthService .js" />
+    <None Remove="src\logincheck.js" />
+  </ItemGroup>
+</Project>

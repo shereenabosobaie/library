@@ -1,0 +1,1210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AngularProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\login\\login.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\login\\login.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\login\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\login\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\singup\\singup.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\singup\\singup.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\E-library.esproj|d:\\angularproject1\\angularproject1\\e-library.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\E-library.esproj|solutionrelative:angularproject1\\e-library.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\update-book\\update-book.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\update-book\\update-book.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\components\\header\\header.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\components\\header\\header.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\profile\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\profile\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\profile\\profile.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\profile\\profile.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\home\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\home\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\home\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\home\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\auth.guard.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\auth.guard.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\search\\search.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\search\\search.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\search\\search.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\search\\search.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\home\\home.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\home\\home.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\profile\\profile.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\profile\\profile.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\components\\header\\header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\components\\header\\header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\singup\\singup.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\singup\\singup.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\singup\\singup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\singup\\singup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\components\\header\\header.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\components\\header\\header.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\admin-dashboard\\admin-dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\admin-dashboard\\admin-dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\admin-dashboard\\admin-dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\admin-dashboard\\admin-dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\admin-dashboard\\admin-dashboard.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\admin-dashboard\\admin-dashboard.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\book-detail-component\\book-detail-component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\book-detail-component\\book-detail-component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\update-book\\update-book.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\update-book\\update-book.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\book-detail-component\\book-detail-component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\book-detail-component\\book-detail-component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\book-detail-component\\book-detail-component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\book-detail-component\\book-detail-component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\update-book\\update-book.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\update-book\\update-book.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\app-routing-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\app-routing-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\checkrole.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\checkrole.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\authservice .js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\authservice .js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\borrow-requests\\borrow-requests.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\borrow-requests\\borrow-requests.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\borrow-requests\\borrow-requests.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\borrow-requests\\borrow-requests.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\borrow-req\\borrow-req.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\borrow-req\\borrow-req.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\borrow-requests\\borrow-requests.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\borrow-requests\\borrow-requests.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\book-detail-component\\book-detail-component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\book-detail-component\\book-detail-component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\admin-dashboard\\admin-dashboard.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\admin-dashboard\\admin-dashboard.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\borrow-req\\borrow-req.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\borrow-req\\borrow-req.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\borrow-req\\borrow-req.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\borrow-req\\borrow-req.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\search\\search.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\search\\search.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\add-book\\add-book.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\add-book\\add-book.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\login\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\login\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\home\\home.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\home\\home.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\dist\\angularproject1\\browser\\main-rii2umdi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\dist\\angularproject1\\browser\\main-rii2umdi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\dist\\angularproject1\\browser\\polyfills-5cfqrcpp.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\dist\\angularproject1\\browser\\polyfills-5cfqrcpp.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\add-book\\add-book.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\add-book\\add-book.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\dist\\angularproject1\\3rdpartylicenses.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\dist\\angularproject1\\3rdpartylicenses.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\app-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\app-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\components\\popup\\popup.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\components\\popup\\popup.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\add-book\\add-book.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\add-book\\add-book.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\borrow-req\\borrow-req.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\borrow-req\\borrow-req.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\logincheck.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\logincheck.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\components\\header\\header.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\components\\header\\header.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\search\\search.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\search\\search.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\singup\\singup.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\singup\\singup.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\components\\popup\\popup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\components\\popup\\popup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\components\\popup\\popup.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\components\\popup\\popup.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\login\\login.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\login\\login.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\app.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\app.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|d:\\angularproject1\\angularproject1\\src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2F2FE3-FB33-23FB-A5BF-E89DF46F65B4}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 54,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "update-book.css",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\update-book\\update-book.css",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\update-book\\update-book.css",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\update-book\\update-book.css",
+              "RelativeToolTip": "AngularProject1\\src\\app\\update-book\\update-book.css",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-12T09:57:31.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "update-book.html",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\update-book\\update-book.html",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\update-book\\update-book.html",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\update-book\\update-book.html",
+              "RelativeToolTip": "AngularProject1\\src\\app\\update-book\\update-book.html",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-12T09:57:22.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "update-book.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\update-book\\update-book.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\update-book\\update-book.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\update-book\\update-book.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\update-book\\update-book.ts",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-12T09:57:03.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "checkRole.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\checkRole.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\checkRole.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\checkRole.ts",
+              "RelativeToolTip": "AngularProject1\\src\\checkRole.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-12T09:51:16.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AuthService .js",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\AuthService .js",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\AuthService .js",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\AuthService .js",
+              "RelativeToolTip": "AngularProject1\\src\\AuthService .js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-12T09:50:48.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "polyfills-5CFQRCPP.js",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\dist\\AngularProject1\\browser\\polyfills-5CFQRCPP.js",
+              "RelativeDocumentMoniker": "AngularProject1\\dist\\AngularProject1\\browser\\polyfills-5CFQRCPP.js",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\dist\\AngularProject1\\browser\\polyfills-5CFQRCPP.js",
+              "RelativeToolTip": "AngularProject1\\dist\\AngularProject1\\browser\\polyfills-5CFQRCPP.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABXXwAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-12T06:32:45.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "main-RII2UMDI.js",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\dist\\AngularProject1\\browser\\main-RII2UMDI.js",
+              "RelativeDocumentMoniker": "AngularProject1\\dist\\AngularProject1\\browser\\main-RII2UMDI.js",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\dist\\AngularProject1\\browser\\main-RII2UMDI.js",
+              "RelativeToolTip": "AngularProject1\\dist\\AngularProject1\\browser\\main-RII2UMDI.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAB3qQMAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-12T06:32:41.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "3rdpartylicenses.txt",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\dist\\AngularProject1\\3rdpartylicenses.txt",
+              "RelativeDocumentMoniker": "AngularProject1\\dist\\AngularProject1\\3rdpartylicenses.txt",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\dist\\AngularProject1\\3rdpartylicenses.txt",
+              "RelativeToolTip": "AngularProject1\\dist\\AngularProject1\\3rdpartylicenses.txt",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-12T06:26:23.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\.gitignore",
+              "RelativeDocumentMoniker": "AngularProject1\\.gitignore",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\.gitignore",
+              "RelativeToolTip": "AngularProject1\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-12T06:26:22.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\.editorconfig",
+              "RelativeDocumentMoniker": "AngularProject1\\.editorconfig",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\.editorconfig",
+              "RelativeToolTip": "AngularProject1\\.editorconfig",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-12T06:26:21.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "add-book.css",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\add-book\\add-book.css",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\add-book\\add-book.css",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\add-book\\add-book.css",
+              "RelativeToolTip": "AngularProject1\\src\\app\\add-book\\add-book.css",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-12T01:09:57.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "add-book.html",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\add-book\\add-book.html",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\add-book\\add-book.html",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\add-book\\add-book.html",
+              "RelativeToolTip": "AngularProject1\\src\\app\\add-book\\add-book.html",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-12T01:09:53.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "add-book.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\add-book\\add-book.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\add-book\\add-book.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\add-book\\add-book.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\add-book\\add-book.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-12T01:07:20.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "admin-dashboard.css",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\admin-dashboard\\admin-dashboard.css",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\admin-dashboard\\admin-dashboard.css",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\admin-dashboard\\admin-dashboard.css",
+              "RelativeToolTip": "AngularProject1\\src\\app\\admin-dashboard\\admin-dashboard.css",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-11T23:53:59.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "admin-dashboard.html",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\admin-dashboard\\admin-dashboard.html",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\admin-dashboard\\admin-dashboard.html",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\admin-dashboard\\admin-dashboard.html",
+              "RelativeToolTip": "AngularProject1\\src\\app\\admin-dashboard\\admin-dashboard.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-11T23:53:51.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "admin-dashboard.spec.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\admin-dashboard\\admin-dashboard.spec.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\admin-dashboard\\admin-dashboard.spec.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\admin-dashboard\\admin-dashboard.spec.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\admin-dashboard\\admin-dashboard.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-11T23:53:50.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "admin-dashboard.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\admin-dashboard\\admin-dashboard.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\admin-dashboard\\admin-dashboard.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\admin-dashboard\\admin-dashboard.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\admin-dashboard\\admin-dashboard.ts",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAACkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-11T23:53:27.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "book-detail-component.spec.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\book-detail-component\\book-detail-component.spec.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\book-detail-component\\book-detail-component.spec.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\book-detail-component\\book-detail-component.spec.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\book-detail-component\\book-detail-component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-11T19:31:07.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "borrow-req.spec.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\borrow-req\\borrow-req.spec.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\borrow-req\\borrow-req.spec.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\borrow-req\\borrow-req.spec.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\borrow-req\\borrow-req.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-11T20:25:50.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "borrow-req.css",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\borrow-req\\borrow-req.css",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\borrow-req\\borrow-req.css",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\borrow-req\\borrow-req.css",
+              "RelativeToolTip": "AngularProject1\\src\\app\\borrow-req\\borrow-req.css",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAgwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-11T20:21:53.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "borrow-req.html",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\borrow-req\\borrow-req.html",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\borrow-req\\borrow-req.html",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\borrow-req\\borrow-req.html",
+              "RelativeToolTip": "AngularProject1\\src\\app\\borrow-req\\borrow-req.html",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-11T20:21:44.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "borrow-req.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\borrow-req\\borrow-req.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\borrow-req\\borrow-req.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\borrow-req\\borrow-req.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\borrow-req\\borrow-req.ts",
+              "ViewState": "AgIAALIAAAAAAAAAAAAQwMEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-11T20:21:25.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "borrow-requests.css",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\borrow-requests\\borrow-requests.css",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\borrow-requests\\borrow-requests.css",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\borrow-requests\\borrow-requests.css",
+              "RelativeToolTip": "AngularProject1\\src\\app\\borrow-requests\\borrow-requests.css",
+              "ViewState": "AgIAADAAAAAAAAAAAAAgwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-11T18:33:09.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "borrow-requests.html",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\borrow-requests\\borrow-requests.html",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\borrow-requests\\borrow-requests.html",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\borrow-requests\\borrow-requests.html",
+              "RelativeToolTip": "AngularProject1\\src\\app\\borrow-requests\\borrow-requests.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-11T18:33:03.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "borrow-requests.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\borrow-requests\\borrow-requests.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\borrow-requests\\borrow-requests.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\borrow-requests\\borrow-requests.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\borrow-requests\\borrow-requests.ts",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowEsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-11T18:32:26.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "search.css",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\search\\search.css",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\search\\search.css",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\search\\search.css",
+              "RelativeToolTip": "AngularProject1\\src\\app\\search\\search.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-11T16:48:29.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "singup.spec.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\singup\\singup.spec.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\singup\\singup.spec.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\singup\\singup.spec.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\singup\\singup.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-11T16:09:59.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "auth.guard.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\auth.guard.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\auth.guard.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\auth.guard.ts",
+              "RelativeToolTip": "AngularProject1\\src\\auth.guard.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-11T15:55:42.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "profile.css",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\profile\\profile.css",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\profile\\profile.css",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\profile\\profile.css",
+              "RelativeToolTip": "AngularProject1\\src\\app\\profile\\profile.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-11T14:53:47.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "profile.html",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\profile\\profile.html",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\profile\\profile.html",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\profile\\profile.html",
+              "RelativeToolTip": "AngularProject1\\src\\app\\profile\\profile.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-11T14:53:47.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "profile.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\profile\\profile.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\profile\\profile.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\profile\\profile.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\profile\\profile.ts",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-11T14:52:38.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "logincheck.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\logincheck.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\logincheck.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\logincheck.ts",
+              "RelativeToolTip": "AngularProject1\\src\\logincheck.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-11T13:34:01.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "popup.css",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\components\\popup\\popup.css",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\components\\popup\\popup.css",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\components\\popup\\popup.css",
+              "RelativeToolTip": "AngularProject1\\src\\app\\components\\popup\\popup.css",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-11T13:23:42.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "popup.html",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\components\\popup\\popup.html",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\components\\popup\\popup.html",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\components\\popup\\popup.html",
+              "RelativeToolTip": "AngularProject1\\src\\app\\components\\popup\\popup.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-11T13:23:34.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "popup.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\components\\popup\\popup.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\components\\popup\\popup.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\components\\popup\\popup.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\components\\popup\\popup.ts",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-11T13:22:48.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "auth.service.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\auth.service.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\auth.service.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\auth.service.ts",
+              "RelativeToolTip": "AngularProject1\\src\\auth.service.ts",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-11T12:23:30.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "search.html",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\search\\search.html",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\search\\search.html",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\search\\search.html",
+              "RelativeToolTip": "AngularProject1\\src\\app\\search\\search.html",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-03T12:34:16.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "search.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\search\\search.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\search\\search.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\search\\search.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\search\\search.ts",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAwB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-03T12:33:20.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "search.spec.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\search\\search.spec.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\search\\search.spec.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\search\\search.spec.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\search\\search.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-03T12:32:33.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "book-detail-component.html",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\book-detail-component\\book-detail-component.html",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\book-detail-component\\book-detail-component.html",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\book-detail-component\\book-detail-component.html",
+              "RelativeToolTip": "AngularProject1\\src\\app\\book-detail-component\\book-detail-component.html",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-03T12:08:49.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "book-detail-component.css",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\book-detail-component\\book-detail-component.css",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\book-detail-component\\book-detail-component.css",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\book-detail-component\\book-detail-component.css",
+              "RelativeToolTip": "AngularProject1\\src\\app\\book-detail-component\\book-detail-component.css",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAcwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-03T12:08:39.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "book-detail-component.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\book-detail-component\\book-detail-component.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\book-detail-component\\book-detail-component.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\book-detail-component\\book-detail-component.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\book-detail-component\\book-detail-component.ts",
+              "ViewState": "AgIAAGkAAAAAAAAAAADwv3cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-03T12:08:02.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AngularProject1.esproj",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\E-library.esproj",
+              "RelativeDocumentMoniker": "AngularProject1\\E-library.esproj",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\E-library.esproj",
+              "RelativeToolTip": "AngularProject1\\E-library.esproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-03T11:02:52.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\package.json",
+              "RelativeDocumentMoniker": "AngularProject1\\package.json",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\package.json",
+              "RelativeToolTip": "AngularProject1\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-03T10:53:52.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "home.css",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\home\\home.css",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\home\\home.css",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\home\\home.css",
+              "RelativeToolTip": "AngularProject1\\src\\app\\home\\home.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-03T09:36:49.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "home.html",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\home\\home.html",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\home\\home.html",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\home\\home.html",
+              "RelativeToolTip": "AngularProject1\\src\\app\\home\\home.html",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-03T09:32:50.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "login.spec.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\login\\login.spec.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\login\\login.spec.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\login\\login.spec.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\login\\login.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-03T09:26:51.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "singup.css",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\singup\\singup.css",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\singup\\singup.css",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\singup\\singup.css",
+              "RelativeToolTip": "AngularProject1\\src\\app\\singup\\singup.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-03T09:26:29.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "singup.html",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\singup\\singup.html",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\singup\\singup.html",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\singup\\singup.html",
+              "RelativeToolTip": "AngularProject1\\src\\app\\singup\\singup.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-03T09:26:18.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "singup.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\singup\\singup.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\singup\\singup.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\singup\\singup.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\singup\\singup.ts",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwEQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-03T09:21:04.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "home.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\home\\home.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\home\\home.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\home\\home.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\home\\home.ts",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-03T08:56:11.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "home.spec.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\home\\home.spec.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\home\\home.spec.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\home\\home.spec.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\home\\home.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-03T08:56:14.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.html",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\login\\login.html",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\login\\login.html",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\login\\login.html",
+              "RelativeToolTip": "AngularProject1\\src\\app\\login\\login.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-03T08:48:17.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "login.css",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\login\\login.css",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\login\\login.css",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\login\\login.css",
+              "RelativeToolTip": "AngularProject1\\src\\app\\login\\login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-03T08:48:06.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\login\\login.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\login\\login.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\login\\login.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\login\\login.ts",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvxkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-03T08:47:50.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "angular.json",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\angular.json",
+              "RelativeDocumentMoniker": "AngularProject1\\angular.json",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\angular.json",
+              "RelativeToolTip": "AngularProject1\\angular.json",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-02T15:14:03.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\tsconfig.json",
+              "RelativeDocumentMoniker": "AngularProject1\\tsconfig.json",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\tsconfig.json",
+              "RelativeToolTip": "AngularProject1\\tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-02T15:13:52.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "app.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\app.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\app.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\app.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\app.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-02T15:11:18.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "header.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\components\\header\\header.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\components\\header\\header.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\components\\header\\header.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\components\\header\\header.ts",
+              "ViewState": "AgIAACYAAAAAAAAAAADwvzoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-02T15:10:01.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "header.spec.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\components\\header\\header.spec.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\components\\header\\header.spec.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\components\\header\\header.spec.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\components\\header\\header.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-02T15:09:46.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "header.html",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\components\\header\\header.html",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\components\\header\\header.html",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\components\\header\\header.html",
+              "RelativeToolTip": "AngularProject1\\src\\app\\components\\header\\header.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-02T15:09:39.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "header.css",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\components\\header\\header.css",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\components\\header\\header.css",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\components\\header\\header.css",
+              "RelativeToolTip": "AngularProject1\\src\\app\\components\\header\\header.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-02T15:09:37.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "app-module.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\app-module.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\app-module.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\app-module.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\app-module.ts",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-29T11:01:51.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "app-routing-module.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\app-routing-module.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\app-routing-module.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\app-routing-module.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\app-routing-module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-29T11:02:23.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "styles.css",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\styles.css",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\styles.css",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\styles.css",
+              "RelativeToolTip": "AngularProject1\\src\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-29T11:02:21.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "main.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\main.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\main.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\main.ts",
+              "RelativeToolTip": "AngularProject1\\src\\main.ts",
+              "ViewState": "AgIAABUAAAAAAAAAAAAMwBoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-29T11:02:18.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\index.html",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\index.html",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\index.html",
+              "RelativeToolTip": "AngularProject1\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-29T11:02:16.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "app.spec.ts",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\app.spec.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\app.spec.ts",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\app.spec.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\app.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-29T11:02:01.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "app.html",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\app.html",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\app.html",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\app.html",
+              "RelativeToolTip": "AngularProject1\\src\\app\\app.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-29T11:01:31.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\AngularProject1\\AngularProject1\\src\\app\\app.css",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\app.css",
+              "ToolTip": "D:\\AngularProject1\\AngularProject1\\src\\app\\app.css",
+              "RelativeToolTip": "AngularProject1\\src\\app\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-29T10:59:22.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

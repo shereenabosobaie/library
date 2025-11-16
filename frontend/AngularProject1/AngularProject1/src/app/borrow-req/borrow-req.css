@@ -1,0 +1,150 @@
+.borrow-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.loading, .error {
+  text-align: center;
+  padding: 40px;
+}
+
+.error {
+  color: #d32f2f;
+}
+
+.retry-btn {
+  background: #1976d2;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.book-details {
+  background: #f5f5f5;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.book-info {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.book-image img {
+  width: 150px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.book-meta h3 {
+  margin: 0 0 10px 0;
+  color: #333;
+}
+
+.author, .year {
+  color: #666;
+  margin: 5px 0;
+}
+
+.availability.available {
+  color: #2e7d32;
+  font-weight: bold;
+}
+
+.availability.unavailable {
+  color: #d32f2f;
+  font-weight: bold;
+}
+
+.description {
+  margin-top: 15px;
+  line-height: 1.5;
+}
+
+.borrow-form {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+
+.days-input {
+  width: 100px;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.actions {
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+}
+
+.btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.btn-primary {
+  background: #1976d2;
+  color: white;
+}
+
+.btn-secondary {
+  background: #6c757d;
+  color: white;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+.unavailable-message {
+  text-align: center;
+  padding: 20px;
+  color: #d32f2f;
+}
+
+@media (max-width: 768px) {
+  .book-info {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .actions {
+    flex-direction: column;
+  }
+}
+.book-image img {
+  width: 250px;
+  height: 350px;
+  object-fit: cover;
+  border-radius: 8px;
+  background-color: #f0f0f0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}

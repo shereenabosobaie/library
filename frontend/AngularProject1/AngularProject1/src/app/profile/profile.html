@@ -1,0 +1,28 @@
+<div class="profile-container">
+  <h2>My Profile</h2>
+
+  <div class="profile-card">
+    <!--<img [src]="user.imageUrl
+    ? 'http://localhost:5114' + user.imageUrl
+    : 'assets/images/default-user.png'"
+         alt="Profile"
+         class="profile-img" />-->
+
+    <input type="file" (change)="onFileSelected($event)" />
+    <button (click)="uploadImage()">Upload New Image</button>
+
+    <label>Name:</label>
+    <input [(ngModel)]="user.name" type="text" />
+
+    <label>Email:</label>
+    <input [(ngModel)]="user.email" type="email" />
+
+    <label>New Password:</label>
+    <input [(ngModel)]="user.password" type="password" />
+
+    <button (click)="saveChanges()">Save Changes</button>
+
+    <p class="success" *ngIf="successMessage">{{ successMessage }}</p>
+    <p class="error" *ngIf="errorMessage">{{ errorMessage }}</p>
+  </div>
+</div>

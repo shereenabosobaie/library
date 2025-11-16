@@ -1,0 +1,31 @@
+<div class="borrow-container" *ngIf="!isLoading; else loading">
+  <h2>Your Borrow Requests</h2>
+
+  <div *ngIf="errorMessage" class="error">
+    {{ errorMessage }}
+  </div>
+
+  <div *ngIf="requests.length > 0; else noRequests">
+    <div class="request-card" *ngFor="let r of requests">
+      <img [src]="getFullImageUrl(r.imageUrl || r.ImageUrl)"
+           alt="Book Cover"
+           class="book-image"
+           onerror="this.src='assets/images/default-book.jpg'" />
+      <div class="info">
+        <h3>{{ r.title }}</h3>
+        <p><strong>Days:</strong> {{ r.days }}</p>
+        <p><strong>Status:</strong> {{ r.ended }}</p>
+        <button (click)="cancelRequest(r.id)">Cancel</button>
+      </div>
+    </div>
+  </div>
+
+  <ng-template #noRequests>
+    <p class="empty">You don’t have any borrow requests yet.</p>
+  </ng-template>
+</div>
+
+<ng-template #loading>
+  <p>Loading your borrow requests...</p>
+</ng-template>
+<app-popup #popup></app-popup>
